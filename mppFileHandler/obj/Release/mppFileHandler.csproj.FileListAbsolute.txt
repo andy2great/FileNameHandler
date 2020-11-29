@@ -1,0 +1,13 @@
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\mppFileHandler.exe.config
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\mppFileHandler.exe
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\mppFileHandler.pdb
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.formMain.resources
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.Properties.Resources.resources
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.csproj.GenerateResource.Cache
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.exe
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.pdb
+C:\Users\andy2great\Documents\Visual Studio 2013\Projects\mppFileHandler\mppFileHandler\obj\Release\mppFileHandler.csprojResolveAssemblyReference.cache
